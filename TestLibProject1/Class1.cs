@@ -8,5 +8,6 @@ namespace TestLibProject1
 {
     public class Class1
     {
+        // modif in class 1
     }
 }
